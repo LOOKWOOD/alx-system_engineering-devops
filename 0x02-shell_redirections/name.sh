@@ -1,0 +1,6 @@
+name = "CLYDE"
+BLAKE
+MICHELLE 
+AUSTIN
+BLAKE
+echo "$name"
